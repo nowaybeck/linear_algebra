@@ -12,6 +12,8 @@ def draw_vector(v, title="Vector"):
 
     ax.set_xlim(-10,10)
     ax.set_ylim(-10,10)
+    ax.set_xticks(range(-10,11))
+    ax.set_yticks(range(-10,11))
     ax.grid()
     ax.set_title(title)
 
@@ -29,6 +31,8 @@ def draw_two_vectors(v1, v2, title="Vectors"):
 
     ax.set_xlim(-10,10)
     ax.set_ylim(-10,10)
+    ax.set_xticks(range(-10,11))
+    ax.set_yticks(range(-10,11))
     ax.grid()
     ax.set_title(title)
 
