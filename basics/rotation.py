@@ -26,5 +26,5 @@ plt.show()
 #                      [1  0]
 
 # @ : matrix multiplication
-# matrix 'R' @ vector 'v' = [-1,2] - means vector v (2,1) rotated 90 degrees counterclockwise - (-1,2)
+# matrix 'R' @ vector 'v' = [-1,2] - means vector v (2,1) rotated 90 degrees counterclockwise - (-1,2).
                                  
