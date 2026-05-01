@@ -1,1 +1,1 @@
-# linear_algebra
+Hi! This repo documents some of the linear algebraic concepts visually that I started revisiting recently before jumping into neural nets.
